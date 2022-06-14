@@ -1,5 +1,5 @@
 <template>
-<header class="bg-stone-100">
+<header class="backdrop-blur-xl bg-[#FFFFFF8c] rounded-b-xl">
   <div class="max-w-screen-xl px-4 mx-auto sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
       <div class="flex-1 md:flex md:items-center md:gap-12">

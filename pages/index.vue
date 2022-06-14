@@ -1,6 +1,6 @@
 <template>
   <div class="grid justify-items-center">
-    <div class="flex w-22/24 justify-center py-5">
+    <div class="flex w-22/24 justify-center py-15">
       <div class="md:flex items-center justify-between md:w-9/12 w-11/12 space-x-5">
         <div class="grid justify-items-center gooper-deck-bold text-stone-900 md:text-5xl text-4xl">
           Boost your
@@ -44,7 +44,7 @@
               Set up your own domain <span class="text-[#2b8a3e] gooper-deck-black">with DNS</span>
             </p>
             <p class="mt-2 font-semibold w-3/4 text-stone-700">
-                You can redirect your profile to your own site using our special(lol) systems
+                You can redirect your profile to your own site using our special(just a computer lol) systems
             </p>
           </div>
         </div>
@@ -99,7 +99,7 @@
             <p class="gooper-deck-bold text-4xl">
               Our <span class="text-[#1864ab] gooper-deck-black">Community</span>
             </p>
-            <p class="mt-2 font-semibold w-3/4 text-stone-700">     
+            <p class="mt-2 font-semibold md:w-3/4 text-stone-700">     
               You can reach our fun and non-violent community on Slack with the Standard membership package and you can write your questions to the authorities there.
               If you want to join our community, you can use the e-mail address we have given you, or if you are not given an e-mail address, you can reach us via any platform.
             </p>
