@@ -13,10 +13,6 @@ export default defineNuxtConfig({
             rel: 'stylesheet',
             href: 'http://fonts.cdnfonts.com/css/sf-pro-display'
           },
-          {
-            rel: 'stylesheet',
-            href: 'https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap'
-          }
         ],
     }
 })
