@@ -64,7 +64,7 @@
         <div class="flex items-center left">
           <div>
             <p class="gooper-deck-bold text-4xl w-3/4">
-              Want an <span class="text-[#0b7285] gooper-deck-black">E-Mail?</span>
+              Want an <span class="text-[#0b7285] gooper-deck-black">E-Mail? ✨</span>
             </p>
             <p class="mt-2 font-semibold w-3/4 text-stone-700">
               ✨New✨ Now you can redirect emails to your own address.
