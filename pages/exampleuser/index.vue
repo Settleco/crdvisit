@@ -116,13 +116,12 @@
                 </p>
               </div>
               <div class="justify-between space-y-4  w-full">
-                  <input type="text" class="w-full bg-stone-600 p-2 rounded-xl focus-blue-600" placeholder="Enter amount..">
                   <div class="flex items-center justify-center p-2 bg-blue-400 rounded-xl text-white space-x-2 px-4">
                     <svg role="img" fill="white" class="w-10 h-10" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PayPal</title><path d="M7.076 21.337H2.47a.641.641 0 0 1-.633-.74L4.944.901C5.026.382 5.474 0 5.998 0h7.46c2.57 0 4.578.543 5.69 1.81 1.01 1.15 1.304 2.42 1.012 4.287-.023.143-.047.288-.077.437-.983 5.05-4.349 6.797-8.647 6.797h-2.19c-.524 0-.968.382-1.05.9l-1.12 7.106zm14.146-14.42a3.35 3.35 0 0 0-.607-.541c-.013.076-.026.175-.041.254-.93 4.778-4.005 7.201-9.138 7.201h-2.19a.563.563 0 0 0-.556.479l-1.187 7.527h-.506l-.24 1.516a.56.56 0 0 0 .554.647h3.882c.46 0 .85-.334.922-.788.06-.26.76-4.852.816-5.09a.932.932 0 0 1 .923-.788h.58c3.76 0 6.705-1.528 7.565-5.946.36-1.847.174-3.388-.777-4.471z"/></svg>
                     <p class="font-semibold">Paypal</p>
                   </div>
                   <div class="flex items-center justify-center p-2 bg-stone-800 rounded-xl text-white space-x-2 px-4">
-                      <svg class="w-20 h-20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" id="Layer_1" x="0px" y="0px" viewBox="0 0 118.8 75.2" style="enable-background:new 0 0 118.8 75.2;" xml:space="preserve">
+                      <svg class="w-20 h-20" fill="white" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" id="Layer_1" x="0px" y="0px" viewBox="0 0 118.8 75.2" style="enable-background:new 0 0 118.8 75.2;" xml:space="preserve">
                       <linearGradient id="Logo_1_" gradientUnits="userSpaceOnUse" x1="32.2099" y1="10.3679" x2="82.1589" y2="69.8947" gradientTransform="matrix(1 0 0 -1 0 77.3333)">
                         <stop offset="0" style="stop-color:#E14A55"/>
                         <stop offset="1" style="stop-color:#8E278F"/>
@@ -138,7 +137,6 @@
                     <p class="font-semibold">BTC</p>
                   </div>
               </div>
-  
             </div>
         </div>
       </div>
@@ -150,6 +148,4 @@
 .mainbg {
   background-color: #c4d5fe;
 }
-
-.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Logo_1_);}
 </style>
